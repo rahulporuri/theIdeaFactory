@@ -1,0 +1,22 @@
+by visual quiz, i mean that we show the user a visual cue,
+and ask them to replicate it - 
+for example, we show them an image of a matrix or an array
+and ask them to reproduce it/generate it
+we ask them to reproduce a specific slice of an array or a
+matrix using slicing.
+
+similarly, we can also have a visual quiz to teach HTML/CSS/JS
+stuff - we ask them to replicate a certain layout, a certain font
+type or a font size, a specific action or a specific animation.
+
+or Qt and C++/Python
+
+visual cues are always better and a lot more rewarding.
+
+it'll also be awesome if we could sort of have three panes -
+top half is split into two vertical panes - on the left what
+we desire and on the right what our code currently does.
+and on the bottom half of the screen, we have our actual code.
+that way, we will be able to see changes in our code reflect
+in the changes on how it looks and immediately compare and
+iterate.
