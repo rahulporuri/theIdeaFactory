@@ -1,0 +1,8 @@
+a slack bot that listens to the :standup: tag and copies over the
+information that follows the :standup: tag into a seperate channel.
+this new channel will only contain standup posts.
+
+which will, in the future, be aggregarted by people, by day and
+by topic, if need be, so that one person in one corner of a company
+can talk about exactly what he's working on with someone else in
+another corner.
