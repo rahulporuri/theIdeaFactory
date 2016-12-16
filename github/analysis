@@ -1,0 +1,8 @@
+from the GitHub API, can we get what issues are solved faster - by tag,
+are the descriptive issues solved faster or those without, does the
+comment thread on the issue matter in deciding how fast an issue gets
+closed? What is the average time it takes for an issue to get closed?
+
+similarly, what type of PRs get merged faster? PRs with labels, with
+a good discussion thread? How long do they normally take, and so on.
+
