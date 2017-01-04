@@ -1,0 +1,19 @@
+SELECT
+  STRFTIME_UTC_USEC(timestamp, "%Y-%m") AS yyyymm,
+  file.version,
+  country_code,
+  COUNT(*) as total_downloads,
+FROM
+  TABLE_DATE_RANGE(
+    [the-psf:pypi.downloads],
+    DATE_ADD(CURRENT_TIMESTAMP(), -1, "year"),
+    CURRENT_TIMESTAMP()
+  )
+WHERE
+  file.project = 'pandas'
+GROUP BY
+  file.version,
+  yyyymm,
+  country_code
+ORDER BY
+  total_downloads DESC
