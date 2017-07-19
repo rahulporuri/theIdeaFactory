@@ -60,3 +60,43 @@ or put them on multiple drones and automate their movement. popularize the app t
     - https://www.deltares.nl/en/software/sandbox/
     - https://www.deltares.nl/en/news/interactive-sandbox-new-interactive-design-tool-for-the-direct-visualisation-of-coastal-interventions/
     - https://imgur.com/gallery/bhoLpvs
+
+28. where are the railway incident reports? e.g, why did the train 12125 get delayed for ~2 hours on 18 july 2017
+
+29. why should passengers have to check online whether or not the train is delayed? why do they have to memorise when a station should've been reached? why no easy/offline way?
+
+30. message service that returns ATM locations given PIN code or street name, city.
+
+31. pin code summary - how many, what, where etc. e.g. what is the average area that a pin code covers etc.
+
+32. AR in construction - think repairmen wearing goggles being able to see where all the wiring and pipes are for a building, roadworkers being able to see where the important pipelines are underground etc. google glass for enterprise!!!
+    - what jobs already need a hard hat and googgles? - easiest jobs to introduce AR into. the question becomes how will AR help and not how to integrate the AR equipment into work 
+
+33. how many emails on arXiv are active i.e. how many faculty have moved without updating their email addresses on papers? why doesn't arXiv have profiles where authors can update email information!
+
+34. map showing ATMs in a region - map showing which ATMs show information in various languages!
+
+35. crash testing autos
+
+36. human scavengers - can we automatate their job?
+
+37. science fact of the day - tweets, fb, blog. after an year, print and store. repeat.
+
+38. goFundMe for Indian atheletes.
+
+39. software that performs linear regression and then lets you interactively choose points/regions to exclude from the regression analysis -> this will be useful in classification too where after a first iteration, the users can visually choose and ignore outliers in iterating on the classification, instead of going back to the code and changing things!
+
+40. toilet floors that water can seep through - so that the floors remain dry. a good place to experiment would be the toilets in Indian Railways coaches.
+
+41. DuckDuckGo should start an Amazon rival - one which doesn't need an account to be able to order items. People using DuckDuckGo are already privacy-conscious and would prolly be interested in an online marketplace that doesn't track your shopping.
+
+42. infant and new mother mortality rates in india vs other countries.
+
+43. search for availability of train on the day before expected departure. are there trains with > X number of empty seats at departure? e.g. Sec-Pune shatabdi.
+
+44. what is the language distribution of major/minor cities in India? what fraction of peoples in a state have visitied other states in India?
+
+45. map people density in cities and determine centroids - ideal place to place public transport. then map roads and recalculate weighted centroids. then place actual public stations and compare.
+    - other public services like police and fire stations, cellular and wireless networks etc.
+
+46. 
